@@ -39,3 +39,42 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Plan
+##### The Docs Have
+ - Definition/Info
+ - Code Snippets:
+  ```bash
+  npm init docusaurus@latest my-website classic
+  ```
+ - Note
+ - Caution
+ - Takeaway
+ - Link external **[docusaurus.new](https://docusaurus.new)**
+ - Referincing docs
+```
+I am referencing a [document](doc2.md).
+Reference to another [document in a subfolder](subfolder/doc3.md).
+[Relative document](../otherFolder/doc4.md) referencing works as well.
+```
+ - Empasys: **bold**
+ - Small example `text`
+ - main title: ##
+ - second title: ###
+ - three layer list:
+```
+- that you want your users to remember
+  - and you may nest them
+    - multiple times
+```
+- for sidebar
+```
+---
+sidebar_position: 1
+id: greet
+title: Hello0
+tags:
+  - Demo
+  - Getting started
+---
+```

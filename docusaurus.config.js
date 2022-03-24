@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ionescuflorin', // Usually your GitHub org/user name.
   projectName: 'docs-nexus', // Usually your repo name.
+  themes: ['@docusaurus/theme-live-codeblock'],
 
   presets: [
     [

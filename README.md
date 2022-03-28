@@ -191,6 +191,7 @@ hide_table_of_contents: false
 
 Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docusaurus.io/).
 
+# to remove extra content
 <!--truncate-->
 
 This is my first post on Docusaurus 2.
@@ -319,9 +320,10 @@ Some **content** with _markdown_ `syntax`. Check [this `api`](#).
 Some **content** with _markdown_ `syntax`. Check [this `api`](#).
 :::
 
-// :::info
-// Some **content** with _markdown_ `syntax`. Check [this `api`](#).
-// :::
+// resources
+:::info Resources
+Some **content** with _markdown_ `syntax`. Check [this `api`](#).
+:::
 
 // :::caution
 // Some **content** with _markdown_ `syntax`. Check [this `api`](#).
@@ -369,4 +371,12 @@ or
 
 [Download this docx using Markdown](./assets/docusaurus-asset-example.docx)
 */
+```
+
+### DOCS INFO ARCHITECTURE
+```
+[welcome-page]
+      |__[sections]
+            |__
+
 ```

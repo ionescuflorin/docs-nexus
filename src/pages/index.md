@@ -2,7 +2,19 @@
 sidebar_position: 1
 ---
 
-# NexusDocs
+## #Industries
+
+### [ECOMMERCE]
+
+- **[Link](../../docs/industries/ecommerce/)**
+
+### [FREELANCE]
+
+- **[tests](../../docs/industries/freelance/tests/)**
+- **[interviews](../../docs/industries/freelance/interviews/)**
+- **[clients](../../docs/industries/freelance/clients/)**
+
+---
 
 ## #Development
 
@@ -16,36 +28,40 @@ sidebar_position: 1
 
 ### [PROGRAMMING]
 
-- **[Snippets](https://nodejs.org/en/download/)**
-- **[Web Design](https://nodejs.org/en/download/)**
-- **[Javascript](https://nodejs.org/en/download/)**
-- **[Typescript](https://nodejs.org/en/download/)**
-- **[Node](https://nodejs.org/en/download/)**
-- **[Database](https://nodejs.org/en/download/)**
-- **[Frameworks](https://nodejs.org/en/download/)**
-- **[Tools](https://nodejs.org/en/download/)**
-- **[Games](https://nodejs.org/en/download/)**
-- **[DevOps](https://nodejs.org/en/download/)**
+- **[Snippets](../../docs/development/programming/snippets/)**
+- **[Web Design](../../docs/development/programming/web-design/)**
+- **[Javascript](../../docs/development/programming/javascript/)**
+- **[Typescript](../../docs/development/programming/typescript/)**
+- **[Node](../../docs/development/programming/node/)**
+- **[Database](../../docs/development/programming/databases/)**
+- **[Frameworks](../../docs/development/programming/frameworks/)**
+- **[Tools](../../docs/development/programming/tools/)**
+- **[DevOps](../../docs/development/programming/devops/)**
+- **[Games](../../docs/development/programming/games/)**
 
 ### [WORDPRESS]
-- **[Snippets](https://nodejs.org/en/download/)**
-- **[Php](https://nodejs.org/en/download/)**
-- **[MySql](https://nodejs.org/en/download/)**
-- **[Codex](https://nodejs.org/en/download/)**
-- **[Themes](https://nodejs.org/en/download/)**
-- **[Plugins](https://nodejs.org/en/download/)**
+
+- **[Snippets](../../docs/development/wordpress/snippets/)**
+- **[Php](../../docs/development/wordpress/php/)**
+- **[MySql](../../docs/development/wordpress/mysql/)**
+- **[Codex](../../docs/development/wordpress/codex/)**
+- **[Themes](../../docs/development/wordpress/themes/)**
+- **[Plugins](../../docs/development/wordpress/plugins/)**
 
 ### [SHOPIFY]
-- **[Snippets](https://nodejs.org/en/download/)**
-- **[Codex](https://nodejs.org/en/download/)**
-- **[Themes](https://nodejs.org/en/download/)**
-- **[Plugins](https://nodejs.org/en/download/)**
+
+- **[Snippets](../../docs/development/shopify/snippets/)**
+- **[Codex](../../docs/development/shopify/codex/)**
+- **[Themes](../../docs/development/shopify/themes/)**
+- **[Plugins](../../docs/development/shopify/plugins/)**
 
 ### [ML]
-- **[Snippets](https://nodejs.org/en/download/)**
+
+- **[Snippets](../../docs/development/ml/snippets/)**
 
 ### [BLOCKCHAIN]
-- **[Snippets](https://nodejs.org/en/download/)**
+
+- **[Snippets](./../docs/development/blockchain/snippets/)**
 
 ---
 
@@ -66,16 +82,3 @@ sidebar_position: 1
 ### [SALES]
 
 ### [BUSINESS]
-
----
-
-## #Industries
-
-### [ECOMMERCE]
-
----
-## #Freelance
-
-### [INTERVIEWS]
-### [CLIENTS]
-### [TESTS]

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_nexus=self.webpackChunkdocs_nexus||[]).push([[2888],{9055:function(e){e.exports=JSON.parse('{"permalink":"/docs-nexus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

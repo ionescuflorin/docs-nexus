@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://github.com/ionescuflorin/docs-nexus',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ionescuflorin', // Usually your GitHub org/user name.
   projectName: 'docs-nexus', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   themes: ['@docusaurus/theme-live-codeblock'],
 
   presets: [

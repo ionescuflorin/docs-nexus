@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/ionescuflorin/docs-nexus',
-  baseUrl: '/',
+  url: 'https://ionescuflorin.github.io',
+  baseUrl: '/docs-nexus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

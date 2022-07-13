@@ -81,6 +81,7 @@ How are you?
 # [add a js page]
 /src/pages/[page-dir]
 /src/pages/[page-dir]/index.js
+
 # react-code-------------------------------------------
 import React from 'react';
 import Layout from '@theme/Layout';

@@ -81,4 +81,4 @@ then use normal flow to push your code
 Another related article in Chinese
 
 1. http://4simple.github.com/docs/multipleSSHkeys/
-
+2. https://smarterco.de/set-the-username-and-email-in-git-globally-and-per-project/

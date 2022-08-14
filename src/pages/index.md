@@ -2,82 +2,74 @@
 sidebar_position: 1
 ---
 
-## #Industries
+# DEVELOPMENT
 
-### [ECOMMERCE]
+### Concepts
 
-- **[Link](docs/industries/ecommerce/)**
+- [Paradigms](docs/development/concepts/paradigms/)
+- [Design Patterns](docs/development/concepts/design-patterns/)
+- [Architecture](docs/development/concepts/architecture/)
+- [Algorithms](docs/development/concepts/algor/)
+- [Data Structures](docs/development/concepts/data-structures/)
 
-### [FREELANCE]
+### Programming
 
-- **[tests](docs/industries/freelance/tests/)**
-- **[interviews](docs/industries/freelance/interviews/)**
-- **[clients](docs/industries/freelance/clients/)**
+- [Web Design](docs/development/programming/web-design/)
+- [Javascript](docs/development/programming/javascript/)
+- [Typescript](docs/development/programming/typescript/)
+- [Node](docs/development/programming/node/)
+- [Database](docs/development/programming/databases/)
+- [Frameworks](docs/development/programming/frameworks/)
+- [Tools](docs/development/programming/tools/)
+- [DevOps](docs/development/programming/devops/)
+- [Games](docs/development/programming/games/)
 
----
+### Wordpress
 
-## #Development
+- [Snippets](docs/development/wordpress/snippets/)
+- [Php](docs/development/wordpress/php/)
+- [MySql](docs/development/wordpress/mysql/)
+- [Codex](docs/development/wordpress/codex/)
+- [Themes](docs/development/wordpress/themes/)
+- [Plugins](docs/development/wordpress/plugins/)
 
-### [CONCEPTS]
+### Shopify
 
-- **[Paradigms](docs/development/concepts/paradigms/)**
-- **[Design Patterns](docs/development/concepts/design-patterns/)**
-- **[Architecture](docs/development/concepts/architecture/)**
-- **[Algorithms](docs/development/concepts/algor/)**
-- **[Data Structures](docs/development/concepts/data-structures/)**
-
-### [PROGRAM
-- **[Snippets](docs/development/programming/snippets/)**
-- **[Web Design](docs/development/programming/web-design/)**
-- **[Javascript](docs/development/programming/javascript/)**
-- **[Typescript](docs/development/programming/typescript/)**
-- **[Node](docs/development/programming/node/)**
-- **[Database](docs/development/programming/databases/)**
-- **[Frameworks](docs/development/programming/frameworks/)**
-- **[Tools](docs/development/programming/tools/)**
-- **[DevOps](docs/development/programming/devops/)**
-- **[Games](docs/development/programming/games/)**
-
-### [WORDPRESS]
-
-- **[Snippets](docs/development/wordpress/snippets/)**
-- **[Php](docs/development/wordpress/php/)**
-- **[MySql](docs/development/wordpress/mysql/)**
-- **[Codex](docs/development/wordpress/codex/)**
-- **[Themes](docs/development/wordpress/themes/)**
-- **[Plugins](docs/development/wordpress/plugins/)**
-
-### [SHOPIFY]
-
-- **[Snippets](docs/development/shopify/snippets/)**
-- **[Codex](docs/development/shopify/codex/)**
-- **[Themes](docs/development/shopify/themes/)**
-- **[Plugins](docs/development/shopify/plugins/)**
-
-### [ML]
-
-- **[Snippets](docs/development/ml/snippets/)**
-
-### [BLOCKCHAIN]
-
-- **[Snipdocs/development/blockchain/snippets/)**
+- [Snippets](docs/development/shopify/snippets/)
+- [Codex](docs/development/shopify/codex/)
+- [Themes](docs/development/shopify/themes/)
+- [Plugins](docs/development/shopify/plugins/)
 
 ---
 
-## #Digital
+# DIGITAL
 
-### [UI/UX]
+### UI/Ux
 
-### [SEO]
+### Seo
 
-### [GD]
+### Graphic Design
 
-### [MARKETING]
+### Marketing
 
-### [FOTO/VIDEO]
+### Copywritting
 
-### [COPYWRITTING]
+### Sales
 
-### [SALES]
+### Business
 
-### [BUSINESS]
+---
+
+# INDUSTRIES
+
+### Ecommerce
+
+- [Link](docs/industries/ecommerce/)
+
+### Freelance
+
+- [Athena](docs/industries/freelance/athena/)
+- [Interviews](docs/industries/freelance/interviews/)
+- [Clients](docs/industries/freelance/clients/)
+
+---

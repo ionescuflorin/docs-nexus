@@ -1,13 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Metis',
+  tagline: 'Knowledge is power',
   url: 'https://ionescuflorin.github.io',
   baseUrl: '/docs-nexus/',
   onBrokenLinks: 'throw',
@@ -49,20 +47,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Nexus',
+        title: 'Metis',
         logo: {
-          alt: 'Nexus Logo',
+          alt: 'Metis Logo',
           src: 'img/logo.png',
         },
-        items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Docs',
-          // },
-          { to: '/blog', label: 'Blog', position: 'left' },
-        ],
       },
       footer: {
         style: 'dark',
@@ -107,10 +96,9 @@ const config = {
           //     ],
           //   },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} NexusDocs.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Metis.`,
       },
       prism: {
-        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
